@@ -6,17 +6,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Software Engineer** with a Master's in Information Science and 3+ years of experience building scalable, enterprise-grade applications. Currently crafting innovative solutions at **Artificial Inventions** while exploring the fascinating intersection of software engineering and AI.
 
-- 🔭 Currently working on **RESTful APIs** and **microservices architecture**
-- 🌱 Always learning about **cloud technologies** and **modern development practices**
-- 💡 Love solving complex problems with elegant, efficient solutions
-- 🎯 Open to exciting **Software Engineer** opportunities
-- ⚡ Fun fact: I've deployed applications that serve thousands of users daily!
+- Currently working on **RESTful APIs** and **microservices architecture**
+- Always learning about **cloud technologies** and **modern development practices**
+- Love solving complex problems with elegant, efficient solutions
+- Open to exciting **Software Engineer** opportunities
+- Fun fact: I've deployed applications that serve thousands of users daily!
 
-## 💻 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I'm a passionate **Software Engineer** with a Master's in Information Science an
 
 </div>
 
-## 🏆 Professional Highlights
+## Professional Highlights
 
 ```javascript
 const sanjeevKumar = {
@@ -87,7 +87,7 @@ const sanjeevKumar = {
 };
 ```
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -97,41 +97,41 @@ const sanjeevKumar = {
 
 </div>
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🏦 Banking System - Java Swing
+###  Banking System - Java Swing
 A full-featured banking application with secure user interface and comprehensive banking functionalities.
 - **Tech:** Java Swing, SQL Database
 - **Features:** Account management, transaction processing, customer data security
 - [View Repository →]()
 
-### 🛡️ Security Operations & Risk Management
+###  Security Operations & Risk Management
 Comprehensive cybersecurity solution with SOC implementation and threat intelligence integration.
 - **Tech:** Security frameworks, Monitoring tools
 - **Features:** Risk assessment, incident response, compliance management
 - [View Repository →]()
 
-## 🌟 Experience Journey
+##  Experience Journey
 
-**🚀 Software Developer** | *Artificial Inventions* | *Sep 2024 - Present*
+**Software Developer** | *Artificial Inventions* | *Sep 2024 - Present*
 - Designing RESTful APIs with Java & Spring Boot for enterprise applications
 - Building responsive React.js components with cross-browser compatibility
 - Automating AWS infrastructure with Terraform & ECS Fargate
 
-**💼 Software Engineer** | *Capgemini* | *May 2021 - Jun 2022*
+**Software Engineer** | *Capgemini* | *May 2021 - Jun 2022*
 - Developed scalable web applications using modern tech stack
 - Implemented microservices architecture and optimized database performance
 - Maintained high code quality through reviews and testing
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking **Software Engineer** opportunities where I can:
-- 🚀 Build scalable, impactful software solutions
-- 🌐 Work with cutting-edge technologies and frameworks
-- 👥 Collaborate with passionate, innovative teams
-- 📈 Contribute to products that make a real difference
+- Build scalable, impactful software solutions
+- Work with cutting-edge technologies and frameworks
+- Collaborate with passionate, innovative teams
+- Contribute to products that make a real difference
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -139,7 +139,7 @@ I'm actively seeking **Software Engineer** opportunities where I can:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevkumarp123)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+19408439432)
 
-**💼 Open to Software Engineer opportunities | 🌟 Let's build something amazing together!**
+**Open to Software Engineer opportunities | 🌟 Let's build something amazing together!**
 
 </div>
 
